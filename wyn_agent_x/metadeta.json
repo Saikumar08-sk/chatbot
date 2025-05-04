@@ -1,0 +1,10 @@
+{
+    "send_sms": {
+        "trigger_word": ["send sms", "send message"],
+        "sample_payload": {
+            "phone_number": "string",
+            "message": "string"
+        },
+        "prerequisite": null
+    }
+}
